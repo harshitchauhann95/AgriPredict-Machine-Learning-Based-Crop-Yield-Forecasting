@@ -21,7 +21,7 @@ The project utilizes the **"Crop Production Statistics"** provided by the **Gove
 
 ## 📥 Model Download (Required)
 The trained model (`rf_model_no_coconut.pkl`) is **2.18 GB**, which exceeds GitHub's standard file limits.
-1. **Download the model:** [PASTE YOUR GOOGLE DRIVE LINK HERE]
+1. **Download the model:** ```https://drive.google.com/file/d/1ZWuYiegf8XgE2wb9tT70L1owhI0PN1i4/view?usp=sharing```
 2. **Placement:** Place the downloaded `.pkl` file in the root directory before running the application.
 
 ## 🛠 Installation & Usage
